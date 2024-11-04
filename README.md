@@ -1,8 +1,15 @@
 # 天气记录WeatherLog.md  
 
+11-04-2024 北京晴 Beijing Sunny  
+11-03-2024 北京晴霾 Beijing Sunny Haze  
+11-02-2024 北京多云霾 Beijing Cloudy Haze  
+11-01-2024 北京晴霾 Beijing Sunny Haze  
+10-31-2024 北京多云 Beijing Cloudy  
+10-30-2024 北京晴有多云 Beijing Sunny Cloudy  
+10-29-2024 北京晴 Beijing Sunny  
 10-28-2024 北京晴 Beijing Sunny  
 10-27-2024 北京晴 Beijing Sunny  
-10-26-2024 北京多云霾 Beijing Sunny Cloudy  
+10-26-2024 北京多云霾 Beijing Cloudy Haze  
 10-25-2024 北京多云 Beijing Cloudy  
 10-24-2024 北京晴 Beijing Sunny  
 10-23-2024 北京晴 Beijing Sunny  
